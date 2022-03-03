@@ -11,6 +11,7 @@
       <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
   </div>
+    Hello World!
 </div>
   
 # Status

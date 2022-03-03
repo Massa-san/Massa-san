@@ -7,7 +7,7 @@
     <a href="https://twitter.com/MassaYowayowa">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/
     </a>
-    <a href=discordapp.com/users/752090084639244408">
+    <a href=https://discordapp.com/users/752090084639244408">
       <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
   </div>

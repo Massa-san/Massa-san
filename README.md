@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Massa-san/Massa-san/blob/main/MassaProfile.png" width="100"/>
+  <img src="https://github.com/Massa-san/Massa-san/blob/main/img/MassaProfile.png" width="100"/>
     <div id="badges">
       <a href="https://www.youtube.com/channel/UCez-2_h8tmh86501ZSZLUfw">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>

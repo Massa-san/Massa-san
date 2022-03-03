@@ -10,8 +10,8 @@
       <a href="your-discord-URL">
         <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
       </a>
-      <img src="https://komarev.com/ghpvc/Massa-san=your-github-username&style=flat-square&color=blue" alt=""/>
   </div>
+  <img src="https://komarev.com/ghpvc/Massa-san=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)

@@ -1,4 +1,6 @@
-![image](https://github.com/Massa-san/Massa-san/blob/main/image.png)
+<div id="header" align="center">
+  <img src="" width="100"/>
+</div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
 

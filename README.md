@@ -12,6 +12,9 @@
     </a>
   </div>
 </div>
+  
+# Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Massa-san&hide=contribs,prs)
 
 # About me
 Thanks for coming to my GitHub!  

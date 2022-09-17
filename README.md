@@ -4,7 +4,7 @@
     <a href="https://www.youtube.com/channel/UCez-2_h8tmh86501ZSZLUfw">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/MassaYowayowa">
+    <a href="https://twitter.com/massa_san_">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/
     </a>
     <a href=https://discordapp.com/users/752090084639244408">
